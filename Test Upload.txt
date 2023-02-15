@@ -1,0 +1,10 @@
+This is an Audit test document.
+
+Exam question: Would this document be scanned and blocked when upload to a public GitHub repository?
+
+Mock data:
+John Smith;12-22-33;98456334;TG82TF;GF923456L;Whatever Road
+Matt Blacksmith;23-90-87;37689065;BG89PL;KK987656C;Uphill Road
+Roger That;45-44-43;37898765;GH98IL;GB890765K;Test Street
+
+Created by Vitor Silva, 15/02/2023
