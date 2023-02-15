@@ -1,5 +1,0 @@
-This is an Audit test document.
-
-Exam question: Would this document be scanned and blocked when upload to a public GitHub repository?
-
-Created by Vitor Silva, 15/02/2023
